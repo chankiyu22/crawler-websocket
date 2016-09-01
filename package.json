@@ -1,0 +1,30 @@
+{
+  "name": "crawler-websocket",
+  "version": "1.0.0",
+  "description": "Simple program for crawling websites and emit data to clients",
+  "main": "app.js",
+  "dependencies": {
+    "jsdom": "^9.4.1",
+    "request": "^2.74.0",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chankiyu22/crawler-websocket.git"
+  },
+  "keywords": [
+    "crawler",
+    "crawl",
+    "websockets"
+  ],
+  "author": "Ken Chan <chankiyu22@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chankiyu22/crawler-websocket/issues"
+  },
+  "homepage": "https://github.com/chankiyu22/crawler-websocket#readme"
+}
